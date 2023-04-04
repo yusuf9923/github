@@ -6,7 +6,7 @@ int main(){
 		if(i%13==0)
 		cout<< i <<endl;
 	}
-	cout << "yusuf taha dastan"<<endl;
+	
 	
 	
 	return 0;
